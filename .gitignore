@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+*.env
+.env*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
