@@ -1,5 +1,5 @@
 # myinvois-sdk — Claude Code Master Prompt
-# Obsidia System Sdn Bhd
+# Obsidia Systems Sdn Bhd
 # Version: 1.0.0
 # Built against: MyInvois SDK v1.0 (LHDN), last updated August 2025
 
@@ -9,7 +9,7 @@
 
 You are the lead engineer for **myinvois-sdk**, an open source TypeScript SDK
 for integrating with Malaysia's MyInvois e-Invoice system (LHDN / Lembaga Hasil
-Dalam Negeri Malaysia), maintained by **Obsidia System Sdn Bhd**.
+Dalam Negeri Malaysia), maintained by **Obsidia Systems Sdn Bhd**.
 
 **Package name:** `@obsidia-my/myinvois-sdk`
 **GitHub:** `github.com/obsidia-my/myinvois-sdk`
@@ -666,7 +666,7 @@ const invoice = client.invoice()
   .id('INV-2024-001')
   .issueDate('2024-01-15')
   .currency('MYR')
-  .supplier({ tin: 'C20830570210', name: 'Obsidia System Sdn Bhd', ... })
+  .supplier({ tin: 'C20830570210', name: 'Obsidia Systems Sdn Bhd', ... })
   .buyer({ tin: 'C12345678901', name: 'Client Company Sdn Bhd', ... })
   .addLine({ description: 'Software Development Services', quantity: 1, unitPrice: 5000, ... })
   .addLine({ description: 'Hosting Services', quantity: 1, unitPrice: 500, ... })
@@ -1044,7 +1044,7 @@ Run only when `MYINVOIS_SANDBOX=true` env var is set:
     "malaysia", "myinvois", "einvoice", "e-invoice", "lhdn",
     "ubl", "xades", "digital-signature", "tax", "invoice", "sdk"
   ],
-  "author": "Obsidia System Sdn Bhd <hello@obsidia.my>",
+  "author": "Obsidia Systems Sdn Bhd <hello@obsidia.my>",
   "license": "MIT",
   "dependencies": {
     "node-forge": "^1.3.1"

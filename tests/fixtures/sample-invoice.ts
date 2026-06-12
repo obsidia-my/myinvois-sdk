@@ -9,7 +9,7 @@ export const sampleInvoice: InvoiceDocument = {
     tin: 'C20830570210',
     identificationNumber: '202001234567',
     identificationType: 'BRN',
-    name: 'Obsidia System Sdn Bhd',
+    name: 'Obsidia Systems Sdn Bhd',
     address: {
       addressLines: ['No. 1, Jalan Example'],
       cityName: 'Kuala Lumpur',

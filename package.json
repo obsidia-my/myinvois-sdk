@@ -1,6 +1,6 @@
 {
   "name": "@obsidia-my/myinvois-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TypeScript SDK for Malaysia's MyInvois e-Invoice system (LHDN). UBL 2.1 generation, XAdES signing, and full API coverage.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -40,7 +40,7 @@
     "invoice",
     "sdk"
   ],
-  "author": "Obsidia System Sdn Bhd <hello@obsidia.my>",
+  "author": "Obsidia Systems Sdn Bhd <hello@obsidia.my>",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

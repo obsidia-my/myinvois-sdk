@@ -4,7 +4,7 @@ TypeScript SDK for Malaysia's **MyInvois e-Invoice system** (LHDN / Lembaga Hasi
 
 Handles UBL 2.1 document generation, XAdES digital signing, automatic OAuth token management, batch submission, and the full MyInvois API — so you can integrate in an afternoon instead of a fortnight.
 
-Maintained by [Obsidia System Sdn Bhd](https://obsidia.my).
+Maintained by [Obsidia Systems Sdn Bhd](https://obsidia.my).
 
 ---
 
@@ -193,4 +193,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licence
 
-MIT © Obsidia System Sdn Bhd
+MIT © Obsidia Systems Sdn Bhd
